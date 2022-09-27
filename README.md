@@ -33,7 +33,7 @@
 
     `src/pages/index.js`를 편집하면 실시간으로 사이트 업데이트 할 수 있습니다!
 
-4.  **Learn more**
+4.  **더 많은 정보를 원하신다면**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
